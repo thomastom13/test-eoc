@@ -1,0 +1,13 @@
+>django-admin startproject testtry
+
+python manage.py createsuperuser
+
+u:tom 
+p:tom12345
+
+startapp members
+setting installed app members
+add urls.py in members
+add two html login and register in templates
+
+
